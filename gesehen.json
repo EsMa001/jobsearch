@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "beschreibung": "Dedupe-Speicher der Jobsearch-Routine.",
+  "eintraege": [
+    {
+      "id": "grimme-embedded-landtechnik",
+      "firma": "GRIMME",
+      "titel": "Embedded-SW Landtechnik-Automatisierung",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "siemens-krefeld-senior-regelungstechnik",
+      "firma": "Siemens Mobility",
+      "titel": "Senior Ingenieur Regelungstechnik",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "remote-simulink-iso26262-kalman",
+      "firma": "tbd (Indeed-Remote-Listing)",
+      "titel": "Simulink/ISO26262/Kalman Funktionsentwicklung",
+      "score": "A",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "wh-lengerich-regelungstechnik-extrusion",
+      "firma": "Windmöller & Hölscher",
+      "titel": "Ingenieur Regelungstechnik Extrusion",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-baseline",
+      "hinweis": "Datierung verifizieren"
+    },
+    {
+      "id": "bertrandt-ems-waermepumpe",
+      "firma": "Bertrandt",
+      "titel": "Modellbasierte Entwicklung Energiemanagement",
+      "score": "B",
+      "cluster": "K6",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "demcon-groupleader-electronics",
+      "firma": "Demcon",
+      "titel": "Groupleader Electronics Engineering",
+      "score": "B",
+      "cluster": "K2/K8",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "raceon-controls-performance",
+      "firma": "RaceOn",
+      "titel": "Controls Performance Engineer",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "hoppecke-iot-software",
+      "firma": "HOPPECKE",
+      "titel": "Softwareentwickler IoT",
+      "score": "B",
+      "cluster": "K5",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "fev-aachen-funktionsentwickler",
+      "firma": "FEV",
+      "titel": "Funktionsentwickler Modellbasiert",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "hoppecke-pm-batteriesysteme",
+      "firma": "HOPPECKE",
+      "titel": "Produktmanager Batteriesysteme & IoT",
+      "score": "C",
+      "cluster": "K5",
+      "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "demcon-sw-unmanned-systems",
+      "firma": "Demcon",
+      "titel": "Software Engineer Unmanned Systems",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-baseline"
+    }
+  ]
+}
