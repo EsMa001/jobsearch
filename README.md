@@ -1,7 +1,7 @@
 # Jobsearch-Routine
 
 Automatisierte, wiederkehrende Jobrecherche als Claude-Code-Cloud-Routine.
-Läuft 2× pro Woche (Di + Fr, 07:00) auf Anthropic-Cloud-Infrastruktur.
+Läuft 3× pro Woche (Mo + Mi + Fr, 07:00) auf Anthropic-Cloud-Infrastruktur.
 
 ## Repo-Struktur
 
@@ -15,7 +15,7 @@ jobsearch/
 ├── routine-prompt.md    # Prompt der Cloud-Routine
 ├── gesehen.json         # Dedupe-Speicher                           [Pflege: nur Routine]
 └── reports/             # ein Report pro Lauf                       [Pflege: nur Routine]
-    └── 2026-KW28-di.md
+    └── 2026-KW28-mi.md
 ```
 
 **Verantwortlichkeiten (Single Source of Truth):** `suchprofil.md`, `firmen.md` und
@@ -42,13 +42,13 @@ web aktiviert, GitHub verbunden (sonst `/web-setup` in einer Claude-Code-Session
    Indeed behalten, alles andere (insb. Trading-/Finanz-Connectoren, Strava,
    Google Drive) entfernen. Least Privilege – die Routine handelt als du.
 6. Trigger "Schedule": Preset "weekly" wählen, dann per CLI
-   `/schedule update` die Cron-Expression `0 7 * * 2,5` setzen
-   (Di + Fr 07:00, lokale Zeitzone).
+   `/schedule update` die Cron-Expression `0 5 * * 1,3,5` setzen
+   (Mo + Mi + Fr 07:00 lokale Zeit = 05:00 UTC; die Routines-API rechnet in UTC).
 7. Mit "Run now" testen, Session live verfolgen, prüfen: Report + gesehen.json
    auf main? Negativ-Filter greift? Dann 2–3 Läufe kalibrieren.
 
 Kontingent-Hinweis: Routine-Läufe zählen gegen die Plan-Usage; Tageslimits
-(Pro: 5/Tag, Max: 15/Tag) sind bei 2 Läufen/Woche irrelevant.
+(Pro: 5/Tag, Max: 15/Tag) sind bei 3 Läufen/Woche irrelevant.
 
 ## Vor dem ersten Lauf (einmalige Aufgaben)
 

@@ -1,4 +1,4 @@
-# Jobquellen & Query-Templates – v1.3 (Stand: 07.07.2026)
+# Jobquellen & Query-Templates – v1.4 (Stand: 07.07.2026)
 
 ## Schicht 1 – Job-Boards (Breitensuche)
 
@@ -23,27 +23,29 @@ Keyword-Cluster (Nummern = Themencluster aus `suchprofil.md`):
 - Q3: `FOC PMSM Motorsteuerung elektrische Antriebe` (K1)
 - Q4 (EN): `model-based development motor control` (K1, NL/Remote)
 
-**Rotation Dienstag:**
+**Rotation Montag:**
 - Q5: `Systems Engineering Systemarchitektur E/E` (K3)
 - Q6: `Anforderungsmanagement Requirements Engineer DOORS Polarion` (K4)
+- Q13: `Funktionale Sicherheit Steuergerät Embedded` (K1/K2)
+
+**Rotation Mittwoch:**
 - Q7: `BMS Batteriemanagement Software Ladesystem` (K5)
 - Q8 (EN): `battery management system embedded` (K5, NL/Remote)
+- Q10: `KI-gestützte Entwicklung Toolchain Automatisierung MBSE` (K7)
 
 **Rotation Freitag:**
 - Q9: `Wärmepumpe Regelung Energiemanagement HEMS` (K6)
-- Q10: `KI-gestützte Entwicklung Toolchain Automatisierung MBSE` (K7)
 - Q11 (EN): `control systems engineer mechatronics` (K1/K2, NL)
 - Q12: `Teamleiter modellbasierte Entwicklung Embedded` (K8/[TL])
-- Q13: `Funktionale Sicherheit Steuergerät Embedded` (K1/K2)
 
 Ortsanker je Query: `Münster` · `Dortmund` · `Osnabrück` · `Gütersloh` ·
 `Enschede/Hengelo/Almelo` (nur EN-Queries) · `remote Deutschland`.
 Nicht jede Kombination stumpf abarbeiten – pro Query die 3 plausibelsten
 Ortsanker wählen, bei dünnen Ergebnissen erweitern.
 
-Zeitfenster immer explizit: **nur Anzeigen der letzten 4 Tage** (bei 2 Läufen/
-Woche), sofern die Quelle Datumsfilter unterstützt; sonst gegen `gesehen.json`
-deduplizieren.
+Zeitfenster immer explizit: **nur Anzeigen der letzten 3 Tage** (bei 3 Läufen/
+Woche Mo/Mi/Fr; nach dem Wochenende am Montag 4 Tage), sofern die Quelle
+Datumsfilter unterstützt; sonst gegen `gesehen.json` deduplizieren.
 
 ## Schicht 1b – Direkte Kanäle am Board vorbei
 
@@ -62,7 +64,7 @@ Stellen gegen ALLE Cluster K1–K7 matchen (nicht nur Kern – gerade RE-/SE-Rol
 tauchen bei fast jeder Firma der Liste auf), nur Deltas seit letztem Lauf melden.
 Bei Bot-Blockern: Quelle überspringen, im Report unter "Quellenprobleme" vermerken.
 
-## Schicht 3 – Ergänzende Quellen (nur Di-Lauf)
+## Schicht 3 – Ergänzende Quellen (nur Mo-Lauf)
 
 - FH Münster / Uni Münster: Transfer-/Laborstellen (inkl. MEET, K5)
 - Westfälische Nachrichten Stellenmarkt (regionale Mittelständler)
@@ -83,3 +85,4 @@ Energie-Player), nimmt sie ihn als Vorschlag in den Report auf (Abschnitt
 | v1.1 | 06.07.2026 | Query-Matrix auf 12 Queries erweitert (K3–K7, TL) mit Di/Fr-Rotation; Schicht 2 matcht explizit alle Cluster |
 | v1.2 | 06.07.2026 | Q2 auf "Funktionsentwickler" umgestellt, Q13 FuSi ergänzt; Indeed-Connector nach Test als gleichwertiger Kanal neben Websuche eingestuft |
 | v1.3 | 07.07.2026 | Neue Schicht 1b: Bundesagentur-Jobsuche (API) + ATS-Subdomain-Queries (Personio/softgarden/d.vinci) |
+| v1.4 | 07.07.2026 | Kadenz auf 3×/Woche (Mo/Mi/Fr) umgestellt: Rotation 3/3/3 verteilt (Mo K3/K4/FuSi, Mi K5/K7, Fr K6/NL/TL), Schicht 3 auf Mo-Lauf, Zeitfenster 3 Tage (Mo 4). Q-Nummern stabil gehalten |

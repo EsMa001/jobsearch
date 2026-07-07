@@ -11,7 +11,7 @@ diesem Repo – sie sind die Single Source of Truth:
 2. Ermittle das Zeitfenster: Datum des letzten Reports in `reports/` bis heute,
    maximal 7 Tage zurück. Existiert kein Report, nimm 7 Tage.
 3. Führe die Breitensuche gemäß Query-Matrix in `quellen.md` aus (Schicht 1).
-   Nutze den Indeed-Connector, wenn verfügbar, sonst Websuche. Am Dienstag
+   Nutze den Indeed-Connector, wenn verfügbar, sonst Websuche. Am Montag
    zusätzlich Schicht 3.
 4. Scanne die Karriereseiten aller Einträge mit Status `aktiv` in `firmen.md`.
    Nicht erreichbare oder blockierte Quellen überspringen und im Report unter
@@ -25,7 +25,7 @@ diesem Repo – sie sind die Single Source of Truth:
    Firma+Titel-Hash). Nur neue Treffer und relevante Änderungen (Anzeige
    offline, Gehaltsangabe neu) in den Report. Alle neuen Schlüssel in
    `gesehen.json` ergänzen.
-7. Schreibe den Report nach `reports/JJJJ-KWnn-{di|fr}.md` in diesem Format:
+7. Schreibe den Report nach `reports/JJJJ-KWnn-{mo|mi|fr}.md` in diesem Format:
 
    ```
    # Jobreport KW nn – {Datum}
@@ -54,7 +54,7 @@ diesem Repo – sie sind die Single Source of Truth:
    ```
 
 8. Committe `gesehen.json` und den neuen Report mit Message
-   `jobreport: KWnn {di|fr}, {x}A/{y}B/{z}C` und pushe DIREKT auf den
+   `jobreport: KWnn {mo|mi|fr}, {x}A/{y}B/{z}C` und pushe DIREKT auf den
    Default-Branch (main). Erstelle keine Pull Requests und keine
    `claude/`-Branches – der nächste Lauf klont main und braucht den
    aktuellen Stand von `gesehen.json`.
