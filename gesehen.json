@@ -90,6 +90,416 @@
       "score": "C",
       "cluster": "K2",
       "gemeldet": "2026-KW28-baseline"
+    },
+    {
+      "id": "claas-paderborn-elektroniker-embedded-sw",
+      "firma": "CLAAS Industrietechnik",
+      "titel": "Elektroniker/Embedded Software Entwickler",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "claas-harsewinkel-functional-safety-autonomy",
+      "firma": "CLAAS Selbstfahrende Erntemaschinen",
+      "titel": "Engineer Functional Safety Autonomy",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "claas-harsewinkel-system-engineer-autonomy-program",
+      "firma": "CLAAS Selbstfahrende Erntemaschinen",
+      "titel": "System Engineer Autonomy Program",
+      "score": "A",
+      "cluster": "K3",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "claas-dissen-softwarearchitekt-precision-farming",
+      "firma": "CLAAS E-Systems",
+      "titel": "Softwarearchitekt Precision Farming und Autonomie",
+      "score": "A",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "grimme-damme-sw-produktautomatisierung",
+      "firma": "GRIMME",
+      "titel": "Softwareentwickler Produktautomatisierung",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "grimme-damme-sw-mobile-arbeitsmaschinen",
+      "firma": "GRIMME",
+      "titel": "Softwareentwickler – Mobile Arbeitsmaschinen",
+      "score": "A",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "beckhoff-verl-embedded-softwareentwickler",
+      "firma": "Beckhoff Automation",
+      "titel": "Embedded Softwareentwickler",
+      "score": "A",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "beckhoff-verl-applikationsingenieur",
+      "firma": "Beckhoff Automation",
+      "titel": "Applikationsingenieur",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "e3dc-osnabrueck-entwicklungsingenieur-leistungselektronik",
+      "firma": "E3/DC",
+      "titel": "Entwicklungsingenieur Leistungselektronik",
+      "score": "A",
+      "cluster": "K1/K6",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "e3dc-osnabrueck-embedded-sw-power-electronics",
+      "firma": "E3/DC",
+      "titel": "Embedded Software Developer, Power Electronics Control",
+      "score": "A",
+      "cluster": "K1/K6",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "hella-lippstadt-gruppenleiter-embedded-automated-driving",
+      "firma": "Hella/Forvia",
+      "titel": "Gruppenleiter Embedded Software – Automated Driving",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[TL]"
+    },
+    {
+      "id": "schmitz-cargobull-muenster-gruppenleiter-embedded-sw-platforms",
+      "firma": "Schmitz Cargobull",
+      "titel": "Gruppenleiter Embedded Software Platforms",
+      "score": "A",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[TL]"
+    },
+    {
+      "id": "schmitz-cargobull-muenster-requirements-engineer-embedded",
+      "firma": "Schmitz Cargobull",
+      "titel": "Requirements Engineer Embedded Components",
+      "score": "A",
+      "cluster": "K4",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "vaillant-remscheid-senior-sw-developer-embedded-linux",
+      "firma": "Vaillant",
+      "titel": "Senior Software Developer Embedded Linux",
+      "score": "A",
+      "cluster": "K6",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "vdl-etg-almelo-system-designer-motion-control",
+      "firma": "VDL ETG",
+      "titel": "System Designer Dynamics & Motion Control",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[NL]"
+    },
+    {
+      "id": "miele-guetersloh-systemingenieur-thermodynamik",
+      "firma": "Miele",
+      "titel": "Systemingenieur Thermodynamik",
+      "score": "B",
+      "cluster": "K6",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "miele-guetersloh-sw-embedded-systems",
+      "firma": "Miele",
+      "titel": "Softwareentwickler Embedded Systems",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "keysight-bochum-sw-embedded-test-automation",
+      "firma": "Keysight (Scienlab)",
+      "titel": "Software Developer Embedded Software & Test Automation",
+      "score": "B",
+      "cluster": "K5",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "keysight-bochum-rd-engineer",
+      "firma": "Keysight (Scienlab)",
+      "titel": "R&D Engineer",
+      "score": "B",
+      "cluster": "K5",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "beumer-beckum-senior-plc-sw-engineer",
+      "firma": "BEUMER Group",
+      "titel": "Senior PLC Software Engineer",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "beumer-beckum-elektroingenieur-produktentwicklung",
+      "firma": "BEUMER Group",
+      "titel": "Elektroingenieur Produktentwicklung",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "beumer-beckum-automation-engineer",
+      "firma": "BEUMER Group",
+      "titel": "Automation Engineer",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "gea-oelde-sw-anlagensteuerungen",
+      "firma": "GEA",
+      "titel": "Softwareentwickler für Anlagensteuerungen",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "gea-oelde-sw-einzelmaschinen-skids",
+      "firma": "GEA",
+      "titel": "Softwareentwickler für Einzelmaschinen/Skids",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "claas-dissen-systemingenieur-hardware",
+      "firma": "CLAAS E-Systems",
+      "titel": "Systemingenieur Hardware",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "claas-harsewinkel-test-engineer-advanced-development",
+      "firma": "CLAAS Selbstfahrende Erntemaschinen",
+      "titel": "Test Engineer Advanced Development",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "claas-dissen-sw-cpp-connectivity",
+      "firma": "CLAAS E-Systems",
+      "titel": "Softwareentwickler C++ Connectivity",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "demcon-enschede-system-engineer-hts",
+      "firma": "Demcon",
+      "titel": "System Engineer High-Tech Systems",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[NL]"
+    },
+    {
+      "id": "demcon-enschede-control-engineer",
+      "firma": "Demcon",
+      "titel": "Control Engineer",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[NL]"
+    },
+    {
+      "id": "demcon-enschede-lead-sw-engineer-unmanned",
+      "firma": "Demcon",
+      "titel": "Lead Software Engineer – onbemande systemen",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[NL][TL]"
+    },
+    {
+      "id": "thales-hengelo-system-engineer-modelling",
+      "firma": "Thales Nederland",
+      "titel": "System Engineer – Modelling",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[NL]"
+    },
+    {
+      "id": "vdl-etg-almelo-mechatronics-engineer",
+      "firma": "VDL ETG",
+      "titel": "Mechatronics Engineer",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[NL]"
+    },
+    {
+      "id": "aeg-powersolutions-warstein-sw-ingenieur-rd",
+      "firma": "AEG Power Solutions",
+      "titel": "Softwareingenieur R&D",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "kostal-luedenscheid-sw-pruef-automationstechnik",
+      "firma": "KOSTAL",
+      "titel": "Softwareentwickler Prüf- und Automationstechnik",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "elmos-dortmund-sw-development-engineers-embedded",
+      "firma": "ELMOS Semiconductor",
+      "titel": "Software Development Engineers Embedded Software",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "technotrans-sassenberg-konstrukteur-e-mobilitaet",
+      "firma": "technotrans",
+      "titel": "Konstrukteur/Ingenieur E-Mobilität",
+      "score": "B",
+      "cluster": "K5",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "benning-bocholt-cybersecurity-devsecops",
+      "firma": "Benning",
+      "titel": "Cybersecurity/DevSecOps Engineer Entwicklung",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "esd-dortmund-cae-entwicklungsingenieur",
+      "firma": "Electronic Service Dortmund GmbH",
+      "titel": "CAE Entwicklungsingenieur – Berechnung und numerische Simulation",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "iav-system-engineer-functional-safety-energiesystem",
+      "firma": "IAV",
+      "titel": "System Engineer Functional Safety Energiesystem",
+      "score": "B",
+      "cluster": "K1/K5",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[DL]",
+      "hinweis": "Standort unklar"
+    },
+    {
+      "id": "iav-team-leader-systems-engineering-ee-architecture",
+      "firma": "IAV",
+      "titel": "Team Leader Systems Engineering – E/E Architecture & Vehicle Integration",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[DL][TL]",
+      "hinweis": "Standort unklar"
+    },
+    {
+      "id": "iav-teamleiter-embedded-sw-fahrzeugelektronik",
+      "firma": "IAV",
+      "titel": "Teamleiter Embedded Softwareentwicklung Fahrzeugelektronik",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[DL][TL]",
+      "hinweis": "Standort unklar"
+    },
+    {
+      "id": "siemens-krefeld-klimatisierung-schienenfahrzeuge",
+      "firma": "Siemens Mobility",
+      "titel": "Entwicklungsingenieur/Systemingenieur Klimatisierung von Schienenfahrzeugen",
+      "score": "B",
+      "cluster": "K1/K6",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "siemens-krefeld-systemingenieur-schienenfahrzeuge",
+      "firma": "Siemens Mobility",
+      "titel": "Systemingenieur/System Engineer Schienenfahrzeuge",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "alten-dortmund-umspannwerke",
+      "firma": "ALTEN",
+      "titel": "Ingenieur Umspannwerke",
+      "score": "C",
+      "cluster": "K9",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[QE][DL]"
+    },
+    {
+      "id": "alten-dortmund-stromnetzplanung",
+      "firma": "ALTEN",
+      "titel": "Ingenieur Stromnetzplanung",
+      "score": "C",
+      "cluster": "K9",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[QE][DL]"
+    },
+    {
+      "id": "alten-dortmund-netzbetrieb",
+      "firma": "ALTEN",
+      "titel": "Ingenieur Elektrotechnik Netzbetrieb",
+      "score": "C",
+      "cluster": "K9",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[QE][DL]"
+    },
+    {
+      "id": "xsens-enschede-application-sw-engineer",
+      "firma": "Xsens (Movella)",
+      "titel": "Application Software Engineer",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW28-fr",
+      "flags": "[NL]"
+    },
+    {
+      "id": "voltavision-bochum-mess-regeltechniker",
+      "firma": "Voltavision",
+      "titel": "Mess- und Regeltechniker:in",
+      "score": "C",
+      "cluster": "K5",
+      "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "gea-oelde-servicetechniker-inbetriebnehmer",
+      "firma": "GEA",
+      "titel": "Servicetechniker/Inbetriebnehmer",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW28-fr"
     }
   ]
 }
