@@ -500,6 +500,177 @@
       "score": "C",
       "cluster": "K1",
       "gemeldet": "2026-KW28-fr"
+    },
+    {
+      "id": "miele-guetersloh-systemingenieur-modellbasierte-funktionsentwicklung-waeschepflege",
+      "firma": "Miele",
+      "titel": "Systemingenieur Modellbasierte Funktionsentwicklung für Wäschepflegegeräte",
+      "score": "A",
+      "cluster": "K1/K3",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "brunel-osnabrueck-funktionsentwickler-automotive",
+      "firma": "Brunel GmbH",
+      "titel": "Funktionsentwickler – Automotive",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-mo",
+      "flags": "[DL]"
+    },
+    {
+      "id": "grimme-damme-entwicklungsingenieur-modellbasierte-applikationssoftware",
+      "firma": "GRIMME",
+      "titel": "Entwicklungsingenieur für modellbasierte Applikationssoftware",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "dspace-paderborn-simulation-antriebsstrang-energiewandler",
+      "firma": "dSPACE",
+      "titel": "Softwareentwickler Simulation im elektrifizierten Antriebsstrang und Energiewandler",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "miele-guetersloh-prozessmanager-modellbasierte-funktionsentwicklung",
+      "firma": "Miele",
+      "titel": "Prozessmanager modellbasierte Funktionsentwicklung für Wäschepflegegeräte",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "fraunhofer-fusi-iso26262-standort-unklar",
+      "firma": "Fraunhofer-Institut",
+      "titel": "Systemingenieur/in Funktionale Sicherheit ISO 26262",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-mo",
+      "hinweis": "Standort unklar"
+    },
+    {
+      "id": "helbako-heiligenhaus-embedded-cpp-remote",
+      "firma": "Helbako GmbH",
+      "titel": "Softwareentwickler:in C/C++ Embedded Systems",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "wh-lengerich-regelungstechnik-wickelmaschinen",
+      "firma": "Windmöller & Hölscher",
+      "titel": "Ingenieur Regelungstechnik (Wickelmaschinen)",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "rosen-lingen-embedded-software-engineer",
+      "firma": "ROSEN Group",
+      "titel": "Embedded Software Engineer",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "rosen-lingen-system-integration-engineer",
+      "firma": "ROSEN Group",
+      "titel": "Ingenieur System Integration Engineer",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "rosen-lingen-projektleiter-sw-applikationssoftware",
+      "firma": "ROSEN Group",
+      "titel": "Projektleiter Softwareentwicklung Applikationssoftware",
+      "score": "B",
+      "cluster": "K2/K8",
+      "gemeldet": "2026-KW29-mo",
+      "flags": "[TL]"
+    },
+    {
+      "id": "kostal-luedenscheid-sw-ingenieur-embedded-systems",
+      "firma": "KOSTAL",
+      "titel": "Software Ingenieur für Embedded Systems",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "vaillant-remscheid-entwicklungsingenieur-funktionstests-waermepumpe",
+      "firma": "Vaillant",
+      "titel": "Entwicklungsingenieur Funktionstests Wärmepumpe",
+      "score": "B",
+      "cluster": "K6",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "dspace-paderborn-sw-base-development",
+      "firma": "dSPACE",
+      "titel": "Softwareentwickler Base Development",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "xsens-enschede-embedded-software-engineer",
+      "firma": "Xsens (Movella)",
+      "titel": "Embedded Software Engineer",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "thales-hengelo-systems-engineer-radar-core-products",
+      "firma": "Thales Nederland",
+      "titel": "Systems Engineer – Radar Core Products",
+      "score": "B",
+      "cluster": "K2/K3",
+      "gemeldet": "2026-KW29-mo",
+      "flags": "[NL]",
+      "hinweis": "vermutlich Security Clearance/Master erforderlich"
+    },
+    {
+      "id": "thales-hengelo-systems-integration-test-engineer",
+      "firma": "Thales Nederland",
+      "titel": "Systems Integration and Test Engineer",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "beumer-beckum-sw-developer-high-level-controls",
+      "firma": "BEUMER Group",
+      "titel": "Software Developer High Level Controls",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-mo"
+    },
+    {
+      "id": "xsens-enschede-system-test-engineer",
+      "firma": "Xsens (Movella)",
+      "titel": "System Test Engineer",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "thales-hengelo-radar-sw-engineer-cpp-smu",
+      "firma": "Thales Nederland",
+      "titel": "Radar Software Engineer (C/C++), SMU-Team",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-mo",
+      "flags": "[NL]",
+      "hinweis": "ggf. zwingende NL-Sprachanforderung, vor Bewerbung prüfen"
     }
   ]
 }
