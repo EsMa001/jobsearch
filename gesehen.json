@@ -671,6 +671,133 @@
       "gemeldet": "2026-KW29-mo",
       "flags": "[NL]",
       "hinweis": "ggf. zwingende NL-Sprachanforderung, vor Bewerbung prüfen"
+    },
+    {
+      "id": "vaillant-remscheid-innovationsingenieur-modellbasierte-funktionsentwicklung-waermepumpen",
+      "firma": "Vaillant",
+      "titel": "Innovationsingenieur Software, Modellbasierte Funktionsentwicklung für Wärmepumpen",
+      "score": "A",
+      "cluster": "K6",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "dspace-paderborn-architect-validation-solutions-bms-vcu-mcu",
+      "firma": "dSPACE",
+      "titel": "Architect Validation Solutions Vehicle Domain (BMS/VCU/MCU)",
+      "score": "A",
+      "cluster": "K1/K3/K5",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "hella-lippstadt-embedded-sw-engineer-power-electronics-emobility",
+      "firma": "Hella/Forvia",
+      "titel": "Embedded Software Engineer Power Electronics/E-Mobility",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "wilo-dortmund-entwicklungsingenieur-elektrische-maschinen",
+      "firma": "Wilo",
+      "titel": "Entwicklungsingenieur elektrische Maschinen",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "cargobull-muenster-system-architekt-leistungselektronik",
+      "firma": "Schmitz Cargobull",
+      "titel": "System Architekt Leistungselektronik",
+      "score": "B",
+      "cluster": "K1/K3",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "cargobull-muenster-ee-systementwicklungsingenieur-fahrzeugsysteme",
+      "firma": "Schmitz Cargobull",
+      "titel": "E/E Systementwicklungsingenieur Fahrzeugsysteme",
+      "score": "B",
+      "cluster": "K2/K3",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "claas-dissen-inside-model-based-systems-engineering",
+      "firma": "CLAAS E-Systems",
+      "titel": "CLAAS Inside – Model Based Systems Engineering",
+      "score": "B",
+      "cluster": "K2/K3",
+      "gemeldet": "2026-KW29-mi",
+      "hinweis": "ggf. internes Rotationsprogramm statt Direktstelle, vor Bewerbung klären"
+    },
+    {
+      "id": "rosen-lingen-ingenieur-elektronikentwicklung-embedded-hardware",
+      "firma": "ROSEN Group",
+      "titel": "Ingenieur Elektronikentwicklung (Embedded Hardware)",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "keysight-bochum-rd-test-design-validation-engineer",
+      "firma": "Keysight (Scienlab)",
+      "titel": "R&D – Test and Design Validation Engineer",
+      "score": "B",
+      "cluster": "K2/K5",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "hella-lippstadt-sw-developer-radar-perception",
+      "firma": "Hella/Forvia",
+      "titel": "Software Developer Radar Perception",
+      "score": "B",
+      "cluster": "K1/K7",
+      "gemeldet": "2026-KW29-mi"
+    },
+    {
+      "id": "xsens-enschede-manager-application-software-engineering",
+      "firma": "Xsens (Movella)",
+      "titel": "Manager Application Software Engineering",
+      "score": "B",
+      "cluster": "K2/K8",
+      "gemeldet": "2026-KW29-mi",
+      "flags": "[NL][TL]"
+    },
+    {
+      "id": "thales-hengelo-radar-system-engineer-r0317231",
+      "firma": "Thales Nederland",
+      "titel": "Radar System Engineer (R0317231)",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-mi",
+      "flags": "[NL]",
+      "hinweis": "ggf. Dublette von R0324627, vor Bewerbung Ausschreibungsnummer prüfen"
+    },
+    {
+      "id": "vdl-etg-almelo-lead-mechatronics-engineer",
+      "firma": "VDL ETG",
+      "titel": "Lead Mechatronics Engineer",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-mi",
+      "flags": "[NL][TL]"
+    },
+    {
+      "id": "alten-bocholt-dortmund-softwareentwickler-embedded-systems",
+      "firma": "ALTEN",
+      "titel": "Softwareentwickler Embedded Systems",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-mi",
+      "flags": "[DL]"
+    },
+    {
+      "id": "weidmueller-detmold-softwareentwickler-energietechnik-reglerentwicklung",
+      "firma": "Weidmüller",
+      "titel": "Softwareentwickler Energietechnik (Regler-Entwicklung)",
+      "score": "C",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-mi",
+      "hinweis": "Radius-Rand ~105km, Hybrid-Status unklar"
     }
   ]
 }
