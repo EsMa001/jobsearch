@@ -798,6 +798,380 @@
       "cluster": "K1/K2",
       "gemeldet": "2026-KW29-mi",
       "hinweis": "Radius-Rand ~105km, Hybrid-Status unklar"
+    },
+    {
+      "id": "amazone-hasbergen-systementwickler-mechatronik",
+      "firma": "Amazone",
+      "titel": "Systementwickler",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "miele-guetersloh-systemingenieur-kochfelder",
+      "firma": "Miele",
+      "titel": "Systemingenieur/System Engineer für Kochfelder",
+      "score": "A",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "claas-dissen-systemingenieur-bedien-anzeigesysteme",
+      "firma": "CLAAS E-Systems",
+      "titel": "Systemingenieur für Bedien- und Anzeigesysteme",
+      "score": "A",
+      "cluster": "K3/K4",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "hella-lippstadt-system-engineer-car-access-vehicle-monitoring",
+      "firma": "Hella/Forvia",
+      "titel": "System Engineer Car Access & Vehicle Monitoring",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "hella-lippstadt-teilprojektleiter-system-lead-system-engineer-automated-driving",
+      "firma": "Hella/Forvia",
+      "titel": "Teilprojektleiter System/Lead System Engineer Automated Driving",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[TL]",
+      "hinweis": "nur via LinkedIn bestätigt, Volltext auf hella.com verifizieren"
+    },
+    {
+      "id": "miele-guetersloh-embedded-sw-grills-smart-home",
+      "firma": "Miele",
+      "titel": "Embedded Softwareentwickler Grills/Smart Home",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "miele-guetersloh-sw-kochfeld-elektronik-mobile-app",
+      "firma": "Miele",
+      "titel": "Softwareentwickler Kochfeld-Elektronik + Mobile App",
+      "score": "B",
+      "cluster": "K2/K4",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "rosen-lingen-requirements-engineer",
+      "firma": "ROSEN Group",
+      "titel": "Requirements Engineer",
+      "score": "B",
+      "cluster": "K4",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "grimme-damme-versuchsingenieur-softwarevalidierung",
+      "firma": "GRIMME",
+      "titel": "Versuchsingenieur Softwarevalidierung",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "keysight-bochum-sw-engineer-csharp-cpp",
+      "firma": "Keysight (Scienlab)",
+      "titel": "Software Engineer C#/C++",
+      "score": "B",
+      "cluster": "K2/K5",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "cargobull-muenster-sw-ingenieur-embedded-transportkaeltemaschine",
+      "firma": "Schmitz Cargobull",
+      "titel": "Software Ingenieur Embedded Systems Transportkältemaschine",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "cargobull-muenster-entwicklungsingenieur-ee-kuehlgeraeteintegration",
+      "firma": "Schmitz Cargobull",
+      "titel": "Entwicklungsingenieur E/E Kühlgeräteintegration",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "cargobull-muenster-entwicklungsingenieur-leistungselektronik-transportkaeltemaschine",
+      "firma": "Schmitz Cargobull",
+      "titel": "Entwicklungsingenieur Leistungselektronik Transportkältemaschine",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "möglicherweise hardwarelastig, vor Bewerbung prüfen"
+    },
+    {
+      "id": "xsens-enschede-senior-software-architect",
+      "firma": "Xsens (Movella)",
+      "titel": "Senior Software Architect",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[NL]",
+      "hinweis": "verlangt moderne C++-Tiefe (17/20), Kandidat C++ 2/5"
+    },
+    {
+      "id": "thales-hengelo-sw-engineers-radar-processing",
+      "firma": "Thales Nederland",
+      "titel": "Software Engineer(s) Radar Processing",
+      "score": "B",
+      "cluster": "K2/K3",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[NL]",
+      "hinweis": "evtl. Dublette zu bekanntem Radar-SW-Team, Ausschreibungsnummer prüfen"
+    },
+    {
+      "id": "alten-koeln-duesseldorf-dortmund-systemingenieur-automotive-zukunftstechnologien",
+      "firma": "ALTEN",
+      "titel": "Systemingenieur Automotive Zukunftstechnologien",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[DL]"
+    },
+    {
+      "id": "ferchau-dortmund-softwareentwickler-matlab",
+      "firma": "Ferchau",
+      "titel": "Softwareentwickler Matlab",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[DL]",
+      "hinweis": "ggf. Junior-Level ('erste Berufserfahrung'), vor Bewerbung prüfen"
+    },
+    {
+      "id": "claas-dissen-sw-developer-machine-control-steering-control",
+      "firma": "CLAAS",
+      "titel": "Software Developer Machine Control/Steering Control",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "Volltext nicht abrufbar (403), vor Bewerbung verifizieren"
+    },
+    {
+      "id": "fraunhofer-ffb-muenster-technischer-projektleiter-laboraufbau",
+      "firma": "Fraunhofer FFB",
+      "titel": "Technische*r Projektleiter*in Laboraufbau FFB Fab",
+      "score": "B",
+      "cluster": "K5/K3",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "amazone-hasbergen-bereichsleiter-produktentwicklung-elektronik",
+      "firma": "Amazone",
+      "titel": "Bereichsleiter Produktentwicklung Elektronik",
+      "score": "C",
+      "cluster": "K1/K8",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[TL]"
+    },
+    {
+      "id": "hochschule-osnabrueck-wiss-mitarbeiter-mechatronik",
+      "firma": "Hochschule Osnabrück",
+      "titel": "Wissenschaftl. Mitarbeiter*in Mechatronik/Elektrotechnik",
+      "score": "C",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[F]"
+    },
+    {
+      "id": "ims-almelo-controls-engineer",
+      "firma": "IMS B.V.",
+      "titel": "Controls Engineer",
+      "score": "C",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[NL]"
+    },
+    {
+      "id": "rosen-lingen-system-architect-customer-software",
+      "firma": "ROSEN Group",
+      "titel": "System Architect Customer Software",
+      "score": "C",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "rosen-lingen-systemarchitekt-produktmanager-hardware",
+      "firma": "ROSEN Group",
+      "titel": "Ingenieur Systemarchitekt/Produktmanager System Architecture Hardware",
+      "score": "C",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "grimme-damme-cyber-security-engineer-embedded",
+      "firma": "GRIMME",
+      "titel": "Cyber Security Engineer Embedded Systems",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "grimme-damme-ingenieur-produktsicherheit",
+      "firma": "GRIMME",
+      "titel": "Ingenieur für Produktsicherheit",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "Cluster unklar, FuSi vs. klassische Maschinensicherheit"
+    },
+    {
+      "id": "elmos-dortmund-system-entwicklungsingenieur-ic",
+      "firma": "ELMOS Semiconductor",
+      "titel": "System(-Entwicklungs-)ingenieur IC-Entwicklungsprojekte",
+      "score": "C",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "elmos-dortmund-application-engineer-adas-ranging",
+      "firma": "ELMOS Semiconductor",
+      "titel": "Application Engineer ADAS/Ranging",
+      "score": "C",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "demcon-enschede-software-maintenance-engineer",
+      "firma": "Demcon",
+      "titel": "Software Maintenance Engineer",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[NL]"
+    },
+    {
+      "id": "benning-bocholt-cyber-security-engineer-embedded-produktsicherheit",
+      "firma": "Benning",
+      "titel": "Cyber Security Engineer Embedded Systems & Produktsicherheit",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "möglicherweise Dublette/Nachfolgeausschreibung von bekanntem Cybersecurity-Eintrag"
+    },
+    {
+      "id": "benning-bocholt-fullstack-web-developer-embedded",
+      "firma": "Benning",
+      "titel": "Fullstack Web Developer Embedded Systems",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "beumer-beckum-sw-layoutkonfigurator-maschinenbau",
+      "firma": "BEUMER Group",
+      "titel": "Softwareentwickler Layoutkonfigurator | Maschinenbau",
+      "score": "C",
+      "cluster": "K3",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "claas-dissen-senior-sw-developer-hmi-cpp",
+      "firma": "CLAAS E-Systems",
+      "titel": "Senior Software Developer HMI (C++)",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr"
+    },
+    {
+      "id": "fraunhofer-ffb-muenster-wiss-mitarbeiter-inline-qs-batteriezellfertigung",
+      "firma": "Fraunhofer FFB",
+      "titel": "Wiss. Mitarbeiter*in Inline-Qualitätssicherung Batteriezellfertigung",
+      "score": "C",
+      "cluster": "K5",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[F]"
+    },
+    {
+      "id": "gridx-lead-software-engineer-ems",
+      "firma": "gridX",
+      "titel": "Lead Software Engineer, Energy Management Systems and Renewable Energies",
+      "score": "C",
+      "cluster": "K6",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "Standort/Remote-Anteil nicht verifiziert"
+    },
+    {
+      "id": "gridx-senior-go-engineer-iot-energy",
+      "firma": "gridX",
+      "titel": "Senior Go Engineer – IoT & Energy Integrations",
+      "score": "C",
+      "cluster": "K6",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[R]",
+      "hinweis": "Remote DE in Anzeige gelistet, unternehmensweite ≥80%-Policy nicht bestätigt, Tech-Stack Go nicht im Profil"
+    },
+    {
+      "id": "gridx-go-developer-iot-solutions",
+      "firma": "gridX",
+      "titel": "Go Developer for IoT Solutions",
+      "score": "C",
+      "cluster": "K6",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "Standort/Remote nicht verifizierbar"
+    },
+    {
+      "id": "gridx-lead-engineer-ev-charging-infrastructure",
+      "firma": "gridX",
+      "titel": "Lead Engineer EV Charging Infrastructure",
+      "score": "C",
+      "cluster": "K6",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[R]",
+      "hinweis": "Randbereich EV-Ladeinfrastruktur statt Kern-HEMS, Remote unklar"
+    },
+    {
+      "id": "cargobull-muenster-cyber-security-softwareupdate-manager",
+      "firma": "Schmitz Cargobull",
+      "titel": "Cyber Security & Softwareupdate-Manager",
+      "score": "C",
+      "cluster": "K2/K3",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "schwacher Clusterfit"
+    },
+    {
+      "id": "wilo-dortmund-development-engineer-product-care",
+      "firma": "Wilo",
+      "titel": "Development Engineer Product Care",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "Link/Inhalt unbestätigt"
+    },
+    {
+      "id": "dspace-paderborn-entwicklungsingenieur-leistungselektronik-elektromobilitaet",
+      "firma": "dSPACE",
+      "titel": "Entwicklungsingenieur Leistungselektronik für die Elektromobilität",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "möglicherweise hardwarelastig"
+    },
+    {
+      "id": "thales-hengelo-c-ada-software-engineer",
+      "firma": "Thales Nederland",
+      "titel": "C & ADA Software Engineer",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr",
+      "flags": "[NL]",
+      "hinweis": "Aktivstatus der Anzeige unklar (ältere URL-Struktur)"
+    },
+    {
+      "id": "vahle-kamen-embedded-sw-entwickler-cpp",
+      "firma": "Vahle",
+      "titel": "Embedded Software Entwickler:in C/C++",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW29-fr",
+      "hinweis": "Anzeige evtl. veraltet (Aggregator datiert 2024), auf jobs.vahle.com verifizieren"
     }
   ]
 }
