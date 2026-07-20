@@ -1172,6 +1172,698 @@
       "cluster": "K2",
       "gemeldet": "2026-KW29-fr",
       "hinweis": "Anzeige evtl. veraltet (Aggregator datiert 2024), auf jobs.vahle.com verifizieren"
+    },
+    {
+      "id": "cargobull-muenster-head-ee-vehicle-platforms-systems",
+      "firma": "Schmitz Cargobull",
+      "titel": "Head of E/E Vehicle Platforms & Systems",
+      "score": "A",
+      "cluster": "K3",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]"
+    },
+    {
+      "id": "miele-guetersloh-systemarchitekt-elektronik",
+      "firma": "Miele",
+      "titel": "Systemarchitekt Elektronik",
+      "score": "A",
+      "cluster": "K1/K3",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "miele-guetersloh-gruppenleiter-systems-process-engineering",
+      "firma": "Miele",
+      "titel": "Gruppenleiter Systems and Process Engineering",
+      "score": "A",
+      "cluster": "K1/K3",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]"
+    },
+    {
+      "id": "e3dc-osnabrueck-softwareentwickler-microcontroller",
+      "firma": "E3/DC",
+      "titel": "Softwareentwickler für Microcontroller",
+      "score": "A",
+      "cluster": "K1/K5/K6",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "beckhoff-verl-sw-functional-safety-embedded",
+      "firma": "Beckhoff Automation",
+      "titel": "Softwareentwickler Functional Safety – Embedded Software",
+      "score": "A",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "beckhoff-verl-ingenieur-softwareentwicklung-motion-control",
+      "firma": "Beckhoff Automation",
+      "titel": "Ingenieur Software-Entwicklung",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "kostal-luedenscheid-autosar-architekt",
+      "firma": "KOSTAL",
+      "titel": "AUTOSAR Architekt",
+      "score": "A",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "kostal-functional-safety-manager",
+      "firma": "KOSTAL",
+      "titel": "Functional Safety Manager",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]"
+    },
+    {
+      "id": "vaillant-remscheid-systems-engineer-hvac-polarion",
+      "firma": "Vaillant",
+      "titel": "Systems Engineer",
+      "score": "A",
+      "cluster": "K3/K4",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "vaillant-remscheid-requirements-engineer-electronics-hardware",
+      "firma": "Vaillant",
+      "titel": "Requirements Engineer Electronics/Hardware",
+      "score": "A",
+      "cluster": "K4",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "dspace-paderborn-sw-cpp-targetlink",
+      "firma": "dSPACE",
+      "titel": "Softwareentwickler C++ für dSPACE TargetLink",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "hinweis": "Quelle nur Aggregator (jobcluster.de), vor Bewerbung auf dspace.com verifizieren"
+    },
+    {
+      "id": "dspace-paderborn-projektleiter-hv-power-hil",
+      "firma": "dSPACE",
+      "titel": "Projektleiter Hochvolt-Power-HIL-Systeme",
+      "score": "A",
+      "cluster": "K1/K5",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]"
+    },
+    {
+      "id": "mathworks-senior-application-engineer-power-electronics",
+      "firma": "MathWorks",
+      "titel": "Senior Application Engineer Power Electronics",
+      "score": "A",
+      "cluster": "K1/K7",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "vector-experte-fusi-embedded-software",
+      "firma": "Vector Informatik",
+      "titel": "Experte Funktionale Sicherheit Embedded Software",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "vector-solution-architekt-pm-fusi-fail-operational",
+      "firma": "Vector Informatik",
+      "titel": "Solution Architekt/Technischer PM Functional Safety & Fail-Operational",
+      "score": "A",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "vector-softwarearchitekt-autosar",
+      "firma": "Vector Informatik",
+      "titel": "Softwarearchitekt AUTOSAR",
+      "score": "A",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "vector-embedded-sw-system-architect",
+      "firma": "Vector Informatik",
+      "titel": "Embedded Software System Architect",
+      "score": "A",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "thales-hengelo-requirements-system-engineer-aww-fcs",
+      "firma": "Thales Nederland",
+      "titel": "Requirements System Engineer (AWW-FCS)",
+      "score": "A",
+      "cluster": "K4/K3",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "cargobull-muenster-requirements-engineer-iot-components",
+      "firma": "Schmitz Cargobull",
+      "titel": "Requirements Engineer IoT Components",
+      "score": "B",
+      "cluster": "K4",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "claas-dissen-systemingenieur-hardware-sensors-expert",
+      "firma": "CLAAS E-Systems",
+      "titel": "Systemingenieur Hardware – Standard Sensors Expert",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "claas-dissen-testingenieur-diagnoseapplikation",
+      "firma": "CLAAS E-Systems",
+      "titel": "Testingenieur Diagnoseapplikation",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo",
+      "hinweis": "Link nur via SAP-Portal/LinkedIn, auf recruiting.claas.com verifizieren"
+    },
+    {
+      "id": "miele-guetersloh-sw-test-automatisierung",
+      "firma": "Miele",
+      "titel": "Softwareentwickler (Test-Automatisierung)",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "miele-guetersloh-embedded-sw-3569",
+      "firma": "Miele",
+      "titel": "Softwareentwickler Embedded Systeme (Vac. 3569)",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "miele-guetersloh-embedded-sw-3681",
+      "firma": "Miele",
+      "titel": "Software Integrator Embedded Systems (Vac. 3681)",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "miele-guetersloh-embedded-sw-4480",
+      "firma": "Miele",
+      "titel": "Embedded Software Developer Appliance Control (Vac. 4480)",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "miele-guetersloh-embedded-sw-4713",
+      "firma": "Miele",
+      "titel": "(Senior) Embedded Software Developer (Vac. 4713)",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "miele-guetersloh-embedded-sw-5621",
+      "firma": "Miele",
+      "titel": "Softwareentwickler Embedded Systems C++ (Vac. 5621)",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "beckhoff-verl-sw-functional-safety-engineering-software",
+      "firma": "Beckhoff Automation",
+      "titel": "Softwareentwickler Functional Safety – Engineering-Software",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "beckhoff-verl-ingenieur-support-safety-projekte-international",
+      "firma": "Beckhoff Automation",
+      "titel": "Ingenieur Support für Safety-Projekte international",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "beckhoff-verl-ingenieur-sw-engineering-tools",
+      "firma": "Beckhoff Automation",
+      "titel": "Ingenieur Softwareentwicklung Engineering-Tools",
+      "score": "B",
+      "cluster": "K7",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "wilo-dortmund-team-leader-steuerungstechnik-emsr",
+      "firma": "Wilo",
+      "titel": "Team Leader Steuerungstechnik – EMSR",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]",
+      "hinweis": "Standort widersprüchlich Dortmund/Schwelm, Link nicht verifiziert"
+    },
+    {
+      "id": "elmos-dortmund-design-for-test-engineer",
+      "firma": "ELMOS Semiconductor",
+      "titel": "Design for Test Engineer",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "keysight-bochum-product-engineer-emobility",
+      "firma": "Keysight (Scienlab)",
+      "titel": "Product Engineer eMobility",
+      "score": "B",
+      "cluster": "K5",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "kostal-dortmund-elektroingenieur-leistungselektronik",
+      "firma": "KOSTAL",
+      "titel": "Elektroingenieur Entwicklung Leistungselektronik",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "kostal-dortmund-ingenieur-elektrotechnik-ladetechnik",
+      "firma": "KOSTAL",
+      "titel": "Ingenieur Elektrotechnik, innovative Hardwareentwicklung (Ladetechnik)",
+      "score": "B",
+      "cluster": "K5",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "hella-lippstadt-sw-engineer-produktentwicklung",
+      "firma": "Hella/Forvia",
+      "titel": "Softwareentwickler/Software Engineer Produktentwicklung",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo",
+      "hinweis": "nur via LinkedIn bestätigt"
+    },
+    {
+      "id": "vaillant-remscheid-manager-embedded-sw-platform",
+      "firma": "Vaillant",
+      "titel": "Manager Embedded Software Platform",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]",
+      "hinweis": "nur via LinkedIn bestätigt"
+    },
+    {
+      "id": "vaillant-remscheid-testing-engineer-functional",
+      "firma": "Vaillant",
+      "titel": "Testing Engineer Functional",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "gridx-senior-ems-engineer",
+      "firma": "gridX",
+      "titel": "Senior EMS Engineer",
+      "score": "B",
+      "cluster": "K6",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "iav-systems-engineer-fahrzeugvernetzung-elektrifizierte-antriebe",
+      "firma": "IAV",
+      "titel": "Systems Engineer für Fahrzeugvernetzung – elektrifizierte Antriebe",
+      "score": "B",
+      "cluster": "K1/K3",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[DL]",
+      "hinweis": "Standort unklar"
+    },
+    {
+      "id": "iav-systems-engineer-batteriesystementwicklung",
+      "firma": "IAV",
+      "titel": "Systems Engineer – Batteriesystementwicklung",
+      "score": "B",
+      "cluster": "K5/K3",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[DL]",
+      "hinweis": "Standort unklar"
+    },
+    {
+      "id": "iav-requirements-engineer-2",
+      "firma": "IAV",
+      "titel": "Requirements Engineer",
+      "score": "B",
+      "cluster": "K4",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[DL]",
+      "hinweis": "Standort unklar"
+    },
+    {
+      "id": "ferchau-dortmund-entwicklungsingenieur-leistungselektronik-automotive",
+      "firma": "Ferchau",
+      "titel": "Entwicklungsingenieur Leistungselektronik Automotive",
+      "score": "B",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[DL]",
+      "hinweis": "Einsatzort/Endkunde unklar, siehe Marktsignale"
+    },
+    {
+      "id": "demcon-enschede-software-architect-fso",
+      "firma": "Demcon",
+      "titel": "Software Architect FSO",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]",
+      "hinweis": "Standort evtl. nicht Enschede"
+    },
+    {
+      "id": "thales-hengelo-system-engineer-system-to-platform",
+      "firma": "Thales Nederland",
+      "titel": "System Engineer System to Platform",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "thales-hengelo-cpp-software-engineer-radar",
+      "firma": "Thales Nederland",
+      "titel": "C/C++ Software Engineer (Radar)",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "thales-hengelo-sw-engineer-architect-fire-control-systems",
+      "firma": "Thales Nederland",
+      "titel": "Software Engineer/Architect (Fire Control Systems)",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "vdl-etg-almelo-system-engineer-mechatronics",
+      "firma": "VDL ETG",
+      "titel": "System Engineer Mechatronics",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "dspace-paderborn-product-owner-hil-kalibrierung",
+      "firma": "dSPACE",
+      "titel": "Product Owner Software zur Kalibrierung von HIL-Simulatoren",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "vector-sw-embedded-adaptive-autosar-cpp-linux",
+      "firma": "Vector Informatik",
+      "titel": "Softwareentwickler Embedded Adaptive AUTOSAR C++/Linux",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "vector-sw-integration-deployment-autosar-basissoftware",
+      "firma": "Vector Informatik",
+      "titel": "Softwareingenieur Integration und Deployment AUTOSAR Basissoftware",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "rosen-lingen-requirements-specialist",
+      "firma": "ROSEN Group",
+      "titel": "Requirements Specialist",
+      "score": "B",
+      "cluster": "K4",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "rosen-lingen-senior-embedded-sw-engineer",
+      "firma": "ROSEN Group",
+      "titel": "Senior Embedded Software Engineer",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "rosen-lingen-system-architect",
+      "firma": "ROSEN Group",
+      "titel": "System Architect",
+      "score": "B",
+      "cluster": "K3",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "rosen-lingen-system-architekt-processing-sw-solutions",
+      "firma": "ROSEN Group",
+      "titel": "System Architekt – Processing Software Solutions",
+      "score": "B",
+      "cluster": "K2/K3",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "rosen-lingen-projektleiter-hw-sw-entwicklung",
+      "firma": "ROSEN Group",
+      "titel": "Projektleiter Hardware- und Softwareentwicklung",
+      "score": "B",
+      "cluster": "K1/K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]"
+    },
+    {
+      "id": "rosen-lingen-scientist-sensorelektronik",
+      "firma": "ROSEN Group",
+      "titel": "Scientist Sensorelektronik/Elektrotechnik",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "grimme-damme-technischer-projektleiter-embedded-systems",
+      "firma": "GRIMME",
+      "titel": "Technischer Projektleiter Embedded Systems",
+      "score": "B",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]",
+      "hinweis": "nur Indeed-Snippet bestätigt"
+    },
+    {
+      "id": "fraunhofer-ffb-muenster-wiss-mitarbeiter-produktionsplattformen",
+      "firma": "Fraunhofer FFB",
+      "titel": "Wiss. Mitarbeiter*in Produktionsplattformen",
+      "score": "C",
+      "cluster": "K7",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[F]"
+    },
+    {
+      "id": "fraunhofer-ffb-muenster-wiss-mitarbeiter-digitale-produktionssysteme",
+      "firma": "Fraunhofer FFB",
+      "titel": "Wiss. Mitarbeiter*in Digitale Produktionssysteme",
+      "score": "C",
+      "cluster": "K7",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[F]"
+    },
+    {
+      "id": "fraunhofer-ffb-muenster-wiss-mitarbeiter-skalierung-digitaler-produktionsloesungen",
+      "firma": "Fraunhofer FFB",
+      "titel": "Wiss. Mitarbeiter*in Skalierung Digitaler Produktionslösungen",
+      "score": "C",
+      "cluster": "K7",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[F]"
+    },
+    {
+      "id": "voltavision-bochum-cloud-solution-engineer",
+      "firma": "Voltavision",
+      "titel": "Cloud Solution Engineer",
+      "score": "C",
+      "cluster": "K5",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "voltavision-bochum-elektroingenieur-anlagenbau",
+      "firma": "Voltavision",
+      "titel": "Elektroingenieur:in im Anlagenbau",
+      "score": "C",
+      "cluster": "K5",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "aeg-powersolutions-warstein-development-engineer-power-electronics-rd",
+      "firma": "AEG Power Solutions",
+      "titel": "Development Engineer Power Electronics R&D",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "aeg-powersolutions-warstein-system-engineer-electrical-engineering",
+      "firma": "AEG Power Solutions",
+      "titel": "System Engineer Electrical Engineering Focus",
+      "score": "C",
+      "cluster": "K3",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "gridx-sw-engineer-device-infrastructure",
+      "firma": "gridX",
+      "titel": "Software Engineer – Device Infrastructure",
+      "score": "C",
+      "cluster": "K6",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "vahle-kamen-teamleiter-softwareentwicklung",
+      "firma": "Vahle",
+      "titel": "Teamleiter Softwareentwicklung",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]",
+      "hinweis": "URL nicht bestätigt"
+    },
+    {
+      "id": "vahle-kamen-teamleiter-technische-pruefungen",
+      "firma": "Vahle",
+      "titel": "Teamleiter Technische Prüfungen",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[TL]"
+    },
+    {
+      "id": "grimme-damme-iot-softwareentwickler",
+      "firma": "GRIMME",
+      "titel": "IoT-Softwareentwickler",
+      "score": "C",
+      "cluster": "K7",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "siemens-krefeld-systemingenieur-aerodynamik-schienenfahrzeuge",
+      "firma": "Siemens Mobility",
+      "titel": "Systemingenieur Aerodynamik für Schienenfahrzeuge",
+      "score": "C",
+      "cluster": "K3",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "demcon-enschede-senior-electronics-engineer-life-science-health",
+      "firma": "Demcon",
+      "titel": "Senior Electronics Engineer (Life Science & Health)",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "thales-hengelo-network-software-engineer",
+      "firma": "Thales Nederland",
+      "titel": "Network Software Engineer",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "thales-hengelo-link-y-software-engineer",
+      "firma": "Thales Nederland",
+      "titel": "Link Y Software Engineer",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "thales-hengelo-platform-oriented-software-engineer",
+      "firma": "Thales Nederland",
+      "titel": "Platform oriented Software Engineer",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "thales-hengelo-diagnostics-developer",
+      "firma": "Thales Nederland",
+      "titel": "Diagnostics Developer",
+      "score": "C",
+      "cluster": "K2",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[NL]"
+    },
+    {
+      "id": "mathworks-application-engineer-universities-befristet",
+      "firma": "MathWorks",
+      "titel": "Application Engineer Universities (befristet)",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "mathworks-aerospace-defence-application-engineer-emea",
+      "firma": "MathWorks",
+      "titel": "Aerospace & Defence Application Engineer (EMEA)",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[R]"
+    },
+    {
+      "id": "dspace-paderborn-product-owner-automotive-bussysteme",
+      "firma": "dSPACE",
+      "titel": "Product Owner für automotive Bussysteme",
+      "score": "C",
+      "cluster": "K7",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "kostal-projektleiter-elektrotechnik",
+      "firma": "KOSTAL",
+      "titel": "Projektleiter Elektrotechnik",
+      "score": "C",
+      "cluster": "K1",
+      "gemeldet": "2026-KW30-mo"
+    },
+    {
+      "id": "alten-projektingenieur-energiewirtschaft",
+      "firma": "ALTEN",
+      "titel": "Projektingenieur Energiewirtschaft",
+      "score": "C",
+      "cluster": "K9",
+      "gemeldet": "2026-KW30-mo",
+      "flags": "[QE][DL]"
     }
   ]
 }
